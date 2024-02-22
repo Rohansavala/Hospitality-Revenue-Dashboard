@@ -29,6 +29,11 @@ Ensured accuracy and consistency of calculated measures, validating data integri
 -Demonstrated effective usage of DAX for creating calculated measures.
 -Applied skills in generating calculated columns for enhanced data analysis.
 -Explored and utilized color palettes for creating visually impactful dashboards.
+![Screenshot (110)](https://github.com/Rohansavala/Hospitality-Revenue-Dashboard/assets/144456589/81c14399-7251-45c8-a65c-77f2f28e06fb)
+
+![Screenshot (112)](https://github.com/Rohansavala/Hospitality-Revenue-Dashboard/assets/144456589/ce9d63d5-d9be-4cff-ace4-4898e4340573)
+
+![Screenshot (113)](https://github.com/Rohansavala/Hospitality-Revenue-Dashboard/assets/144456589/c620443f-2045-4628-a67a-2d5c6e30545e)
 
 # Some key Measures created for better analysis
 1]Measures=	Description / Purpose
