@@ -35,6 +35,9 @@ Ensured accuracy and consistency of calculated measures, validating data integri
 
 ![Screenshot (113)](https://github.com/Rohansavala/Hospitality-Revenue-Dashboard/assets/144456589/c620443f-2045-4628-a67a-2d5c6e30545e)
 
+![Screenshot (114)](https://github.com/Rohansavala/Hospitality-Revenue-Dashboard/assets/144456589/95b497fc-5b0c-4b1e-883f-715aa3994970)
+
+
 # Some key Measures created for better analysis
 1]Measures=	Description / Purpose
 2]Revenue=To get the total revenue_realized
